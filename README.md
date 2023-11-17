@@ -13,5 +13,6 @@ How to use version control using the git tool
 bikeshare_2.py, README.md, and csv files
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity 
+https://github.com/udacity/pdsnd_github
 
